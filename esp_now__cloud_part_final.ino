@@ -21,7 +21,7 @@ String lastStringLength="";
 // Update these with values suitable for your network.
 const char* ssid = "satyam";
 const char* password = "satyam1020";
-const char* mqtt_server = "159.65.146.25";
+const char* mqtt_server = "  ";// using server id 
 char val[200];
 #define mqtt_port 1883
 
